@@ -1,0 +1,48 @@
+.topbox {
+    background-image: linear-gradient(#ffe3ea, pink );
+    text-align: center;
+    padding: 10%;
+}
+
+.topbox h1 {
+    font-size: 60px;
+    color: black ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bottombox {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: #ebebeb;
+    padding: 20px;
+}
+
+
+.navbar {
+    background-color: #ff8375;
+    overflow: hidden;
+    padding: 15px;
+}
+
+.navbar a{
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 10px 12px;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    margin: 0;
+}
+
+.aboutbox {
+    padding: 20px;
+    background-color: #ffdad6;
+    font-size: 20px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
